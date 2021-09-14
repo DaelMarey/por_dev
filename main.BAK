@@ -12,7 +12,7 @@ set sysmenu off
 SET SAFETY OFF
 SET RESOURCE OFF
 
-DO FORM gdirectorio + "\por_dev.SCT"
+DO FORM gdirectorio + "\por_dev"
 
 READ events
 

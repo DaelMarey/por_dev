@@ -9,10 +9,10 @@ set bell off
 set escape off
 set confirm on
 set sysmenu off
-SET SAFETY OFF
-SET RESOURCE OFF
+*SET SAFETY OFF
+*SET RESOURCE OFF
 
-DO FORM gdirectorio + "\por_dev.SCX"
+DO FORM gdirectorio + "\por_dev"
 
 READ events
 
